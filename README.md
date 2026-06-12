@@ -1,6 +1,9 @@
 # Lightning Storm: Discharged
 An original Zeldalike 2D game I'm working on for the New Nintendo 3DS
 
+### This project has been abandoned due to concerns regarding Unity's TOS.
+When I created this project I followed a guide showing how to make a game for the 3ds, what I didn't realize and what I wasn't told is that it's technically against Unity's TOS to use this version of Unity. After being informed of the issues and legal gray zones, the project was shut down immediately. I'd like to bring the project back as a PC exclusive title someday to avoid the legal issues but for now I'm choosing to work on other projects and to distance myself from this as much as possible.
+
 ### What's the game about?
 
 Lightning Storm: Discharged is an original singeplayer game developed by Red Lightning Studios for the Nintendo 3DS. The game is a cross between a top down 2D Zelda like dungeon game and a traditional 2D side scrolling game. You will go through each level collecting different items, defeating enemies, solving puzzles and defeating a boss each chapter. I haven't decided how many chapters I will make, it depends how successful the game becomes. The items you collect will be mostly optional however they will make you journey much easier for example giving you extra health, dealing extra damage or a farther reach distance.
@@ -14,7 +17,7 @@ Each character has different stats which can better suit your playstyle. Some ha
 ### Questions
 
 **PC Ports or other platforms?**
-- I would love to make a PC Version and someday I plan to investigate this idea further but for now the game is too early into development and I'd rather wait until I have something more completed before looking into this. So currently the 3ds is the only platform supported. And most of the releases only support "New" 3ds because of some technical difficulties with the old 3ds. I don't know why it crashes on o3ds hardware but it does. If anyone can help me I'd be more than happy to support o3ds completely.
+- I would love to make a PC Version and someday I plan to investigate this idea further but for now the game is too early into development and I'd rather wait until I have something more completed before looking into this. So currently the 3ds is the only platform supported.
 
 **3D Support?**
 - I would love to make it viewable in 3D but unfortunately I'm unable to figure out how to add it, I've tried a few times but most likely it won't be added.
@@ -25,29 +28,3 @@ Each character has different stats which can better suit your playstyle. Some ha
 ### Warnings
 - Saved game data will reset upon reinstalling or updating the game. To avoid this please make a backup with checkpoint and reload it once you've installed the game again.
 - Game will freeze temporarily when loading, it will unfreeze after 15-30 seconds, unsure why this happens.
-
-### Links
-
-This page, my youtube channel, and my discord are the only official sources for this game. Any other links not included here are unofficial.
-
-- Github (this): https://github.com/RedLightningStudios/Lightning-Storm-Discharged-3ds
-- Discord Link (For teasers, updates, polls, and more): https://discord.gg/MadbEyZYeD
-- Youtube Link: https://www.youtube.com/@RedLightningStudios
-
-### Credits
-
-The game is made by Red Lightning Studios (me). I am the only developer currently, anyone else claiming to be a developer is spreading false information.
-All the music and most of the art is made by Red Lightning Studios (me again). tytoyXD helps with the designs for some of the art so it's not all me with that.
-
-### Special Thanks to:
-- Dimolade
-- Creeperlulu
-- Moddimation
-- JorteroXD
-- Delus1on_L
-- Team8Alpha (SMO3DS Team)
-- Splatoon Legends Team
-- JSaB 3DS Team
-- weirdendTV
-- LegomanZ999
-- tytoyXD
